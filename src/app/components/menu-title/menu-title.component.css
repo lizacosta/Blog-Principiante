@@ -1,0 +1,16 @@
+.menu_title_conteneir{
+    color: white;
+}
+.menu_title_conteneir >h1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 135PX;
+    font-family: segoe UI;
+    display: flex;
+    justify-content: center;
+}
+.menu_title_conteneir >hr{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    
+}
